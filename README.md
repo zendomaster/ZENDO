@@ -1,4 +1,4 @@
-# ZENDO
+# ZendoMaster (ZENDO) token
 developing a wellness app that is linked to a meme utility coin. Our AR app is designed to promote wellness and tranquility, with a special focus on engaging the crypto community. 
 "Discovery" phase. This phase involves several critical activities, including:
 1.	Idea Conceptualization: Defining the core idea and purpose of the app. Understanding what problem it will solve or what need it will fulfill.
