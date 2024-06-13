@@ -9,3 +9,39 @@ Developing a wellness app that is linked to a meme utility coin. Our AR app is d
 6.	Project Planning: Defining the project scope, timeline, budget, and resources. Setting up a project plan with milestones and deliverables.
 7.	Technical Planning: Deciding on the technology stack, architecture, and development approach. This includes selecting the appropriate tools, platforms, and frameworks.
 8.	Risk Assessment: Identifying potential risks and challenges that might arise during the development process and planning for mitigation strategies.
+Technology Stack
+
+Blockchain
+Solana: Chosen for its high performance, low fees, and scalability.
+Solana Program Library (SPL): Utilized for token creation and management.
+Web3.js: Used for integrating blockchain features with the AR app.
+
+Augmented Reality
+
+Unity with AR Foundation: Supports both ARKit (iOS) and ARCore (Android) for a seamless cross-platform experience.
+
+AR Foundation: A framework that allows developers to build AR applications for multiple platforms with a single codebase.
+
+ARKit: Apple’s AR development platform for iOS devices.
+
+ARCore: Google’s AR development platform for Android devices.
+
+Backend and Infrastructure
+
+AWS: For scalable and reliable cloud infrastructure.
+
+Amazon S3: For secure storage of user data and AR assets.
+
+Amazon RDS: For managing databases that store app data and user information.
+
+Node.js: For building scalable and efficient server-side applications.
+
+Express.js: A web application framework for Node.js, used to build APIs for the AR app.
+
+Frontend Development
+
+React Native: For building a cross-platform mobile application.
+
+Redux: For state management within the app.
+
+Expo: For developing, building, and deploying React Native applications.
